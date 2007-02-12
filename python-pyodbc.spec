@@ -1,6 +1,6 @@
 %define		module	pyodbc
 Summary:	DB API 2.0 Module for ODBC
-Summary(pl):	Modu³ DB API 2.0 dla ODBC
+Summary(pl.UTF-8):   ModuÅ‚ DB API 2.0 dla ODBC
 Name:		python-%{module}
 Version:	2.0.30
 Release:	1
@@ -28,15 +28,15 @@ Some notable features include:
  - Additional features have been added to simplify database
    programming with Python.
 
-%description -l pl
-pyodbc to modu³ Pythona pozwalaj±cy na dostêp do baz danych ODBC.
-Implementuje specyfikacjê Python Database API w wersji 2.0. Niektóre
-znacz±ce cechy to:
- - Biblioteka jest darmowa do u¿ytku komercyjnego i osobistego.
+%description -l pl.UTF-8
+pyodbc to moduÅ‚ Pythona pozwalajÄ…cy na dostÄ™p do baz danych ODBC.
+Implementuje specyfikacjÄ™ Python Database API w wersji 2.0. NiektÃ³re
+znaczÄ…ce cechy to:
+ - Biblioteka jest darmowa do uÅ¼ytku komercyjnego i osobistego.
  - Jest zgodna ze standardem DB API.
- - Nie s± wymagane zewnêtrzne biblioteki. U¿ywane s± wy³±cznie natywne
+ - Nie sÄ… wymagane zewnÄ™trzne biblioteki. UÅ¼ywane sÄ… wyÅ‚Ä…cznie natywne
    typy danych Pythona, takie jak decimal czy datetime.
- - Zosta³y dodane dodatkowe mo¿liwo¶ci upraszczaj±ce programowanie baz
+ - ZostaÅ‚y dodane dodatkowe moÅ¼liwoÅ›ci upraszczajÄ…ce programowanie baz
    danych w Pythonie.
 
 %prep
