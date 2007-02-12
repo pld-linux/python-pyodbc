@@ -1,6 +1,6 @@
 %define		module	pyodbc
 Summary:	DB API 2.0 Module for ODBC
-Summary(pl.UTF-8):   Moduł DB API 2.0 dla ODBC
+Summary(pl.UTF-8):	Moduł DB API 2.0 dla ODBC
 Name:		python-%{module}
 Version:	2.0.30
 Release:	1
