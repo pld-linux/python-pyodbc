@@ -3,7 +3,7 @@ Summary:	DB API 2.0 Module for ODBC
 Summary(pl.UTF-8):	Moduł DB API 2.0 dla ODBC
 Name:		python-%{module}
 Version:	2.0.30
-Release:	4
+Release:	5
 License:	MIT
 Group:		Libraries/Python
 Source0:	http://dl.sourceforge.net/pyodbc/%{module}-%{version}.zip
