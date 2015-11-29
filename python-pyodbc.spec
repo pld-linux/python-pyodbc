@@ -11,7 +11,7 @@ Source0:	http://downloads.sourceforge.net/pyodbc/%{module}-%{version}.zip
 URL:		http://pyodbc.sourceforge.net/
 BuildRequires:	python-devel >= 1:2.5
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.174
+BuildRequires:	rpmbuild(macros) >= 1.710
 BuildRequires:	unixODBC-devel
 BuildRequires:	unzip
 %pyrequires_eq	python-modules
